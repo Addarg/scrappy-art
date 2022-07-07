@@ -1,0 +1,57 @@
+{
+  "name": "Scrappy Boyz #3031",
+  "symbol": "Scrappy Boyz",
+  "description": "4000 meme Boyz on the solana blockchain burning scrap with every purchase",
+  "seller_fee_basis_points": 600,
+  "image": "3031.png",
+  "external_url": "https://www.scrappyboyz.com/",
+  "edition": 3031,
+  "collection": {
+    "name": "Scrappy Boyz"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "caramel"
+    },
+    {
+      "trait_type": "skin",
+      "value": "tattoo"
+    },
+    {
+      "trait_type": "face",
+      "value": "wide eyed"
+    },
+    {
+      "trait_type": "hands",
+      "value": "lighter"
+    },
+    {
+      "trait_type": "headpiece",
+      "value": "logo cap (orange)"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "purple"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3031.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3JTcLaaZaU4fjuSUexh9d5r7WN3F7D4ufSJzQK1Wv3kr",
+        "share": 80
+      },
+      {
+        "address": "GGJriUhiPfBLTy76kto12nT3ANjgtp2f8uSdsaZaQvGp",
+        "share": 20
+      }
+    ]
+  }
+}
